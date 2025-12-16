@@ -1,0 +1,17 @@
+# Simulation build artifacts
+obj_dir*/
+__pycache__/
+*.o
+*.vcd
+*.csv
+
+# Vivado / Vitis clutter
+*.jou
+*.log
+.Xil/
+
+# Python environments
+venv*/
+
+# Thesis sources kept out of the code repo
+overleaf/
