@@ -2,4 +2,3 @@ obj_dir/
 venv/
 __pycache__/
 *.csv
-*.png
